@@ -1,0 +1,17 @@
+# Archivos de compilación y salida de Java
+*.class
+out/
+bin/
+
+# Entorno de desarrollo (IntelliJ IDEA, VS Code)
+.idea/
+*.iml
+.vscode/
+
+# Directorio de salida generado por la aplicación (según especificación)
+output/
+!output/.gitkeep
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
